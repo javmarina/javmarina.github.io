@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Setup
+title:            javmarina
+tagline:          'Javier Marina Miranda'
+description:      Electronics, Robotics and Mechatronics Engineer. Master's Degree in Intelligent Systems.
+url:              https://javmarina.github.io
+baseurl:          /
+
+author:
+  name:           'Javier Marina'
+  url:            https://www.linkedin.com/in/javmarina/
+
+paginate:         5
+
+github:
+  repo:           https://github.com/javmarina/javmarina.github.io
