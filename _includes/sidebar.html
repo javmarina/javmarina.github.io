@@ -27,27 +27,24 @@
 
       <!-- If I ever want to create a blog, uncomment line below and remove JS script in index.html -->
       <!--<a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Projects</a>-->
-	  
-	  <ul id="social-media" class="sidebar-nav-item">
-		  <li style="display:inline;">
-			<a href="https://github.com/javmarina" rel="social-github" title="GitHub" target="_blank">
-			  <i class="icon-github"></i>
-			  <span class="screen-reader-text">&#xe802;</span>
-			</a>
-		  </li>
-		  <li style="display:inline;">
-			<a href="mailto:javmarina@gmail.com" rel="social-mail" title="Mail" target="_blank">
-			  <i class="icon-mail"></i>
-			  <span class="screen-reader-text">&#xe800;</span>
-			</a>
-		  </li>
-		  <li style="display:inline;">
-			<a href="https://www.linkedin.com/in/javmarina/" rel="social-linkedin" title="LinkedIn" target="_blank">
-			  <i class="icon-linkedin"></i>
-			  <span class="screen-reader-text">&#xe801;</span>
-			</a>
-		  </li>
-		</ul>
+
+      <ul class="social-media">
+        <li>
+          <a href="https://github.com/javmarina" title="GitHub" target="_blank">
+            <img class="social-icon" src="/public/icons/github.svg" alt="GitHub">
+          </a>
+        </li>
+        <li>
+          <a href="mailto:javmarina@gmail.com" title="Mail" target="_blank">
+            <img class="social-icon" src="/public/icons/gmail.svg" alt="Gmail">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/javmarina/" title="LinkedIn" target="_blank">
+            <img class="social-icon" src="/public/icons/linkedin.svg" alt="LinkedIn">
+          </a>
+        </li>
+      </ul>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}.</p>

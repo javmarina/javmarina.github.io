@@ -147,6 +147,28 @@ abbr[title] {
   border-bottom: 1px dotted #e5e5e5;
 }
 
+/* Social icons */
+
+.social-icon {
+  width: 32px;
+  height: 32px;
+}
+
+ul.social-media {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.social-media li {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 8px;
+  text-decoration: none;
+}
+
 /* Code */
 code,
 pre {
