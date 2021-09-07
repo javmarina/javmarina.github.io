@@ -29,6 +29,12 @@ Source code available on [GitHub](https://github.com/javmarina/Nintendo-Switch-R
 
 An Android app that I started developing as I was learning Java and Android development (2014). While still in development (and will continue for the foreseeable future), it has slowly taken shape over time. I have tried to keep up to the new Android development techniques, and arguably the biggest lessons derive from my initial and innocent mistakes (for the record, I still hate the activity lifecycle).
 
+## VI MotoStudent International Competition
+
+I worked as a member of the [UMA Racing Team](http://racingteam.uma.es/) for two years, mainly focusing on the controller design and programming. I adapted the [VESC Project](https://vesc-project.com/) to a 13 kW Permanent Magnet Synchronous Motor (PMSM), and designed the PCB for the controller. I also led the electronics section of the team, overseeing the development of the power inverter, the data acquisition module and the battery.
+
+Eventually, the UMA Racing Team won the prize for the best electric motorcycle in the MS2 category.
+
 ## CEABOT 2021 - Computer vision challenge
 
 Code developed for the CEABOT 2021 second challenge. The goal was to implement a leader-follower robotic system (with underwater vehicles). The follower robot uses a camera pointing to the leader, which has ArUco markers on it. Using the OpenCV library, the position of the ArUco is obtained, and the follower movement is controlled with a simple PID. We also optimized the image processing by using a parallel pipeline in order to reduce control latency, and designed a basic GUI for monitoring both vehicles. Our team achieved the first place in this challenge.
