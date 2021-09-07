@@ -152,6 +152,7 @@ abbr[title] {
 .social-icon {
   width: 32px;
   height: 32px;
+  margin: 0;
 }
 
 ul.social-media {
