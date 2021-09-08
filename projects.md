@@ -3,8 +3,6 @@ layout: page
 title: Projects
 ---
 
-{::options parse_block_html="true" /}
-
 
 ## Master's Degree Final Thesis
 
@@ -41,7 +39,7 @@ _Waveform design for wireless power transmission systems_
 
   <p>The project is divided into two parts: a GUI for both the client and server computers (programmed in JavaFx) and an Atmel firmware that can be flashed to an Arduino board and emulates a Nintendo Switch Pro Controller. To the best of my knowledge, it's the one and only firmware available for Atmel microcontrollers that reverse engineers the Pro Controller (some efforts have been made for the Horipad S, which has limited features).</p>
 
-  <p>Source code available on [GitHub](https://github.com/javmarina/Nintendo-Switch-Remote-Control).</p>
+  <p>Source code available on <a href="https://github.com/javmarina/Nintendo-Switch-Remote-Control">GitHub</a>.</p>
 </details>
 
 ## iSwim
@@ -61,7 +59,7 @@ _Waveform design for wireless power transmission systems_
 <details>
   <summary>Click to expand!</summary>
 
-  <p>I worked as a member of the [UMA Racing Team](http://racingteam.uma.es/) for two years, mainly focusing on the controller design and programming. I adapted the [VESC Project](https://vesc-project.com/) to a 13 kW Permanent Magnet Synchronous Motor (PMSM), and designed the PCB for the controller. I also led the electronics section of the team, overseeing the development of the power inverter, the data acquisition module and the battery.</p>
+  <p>I worked as a member of the <a href="http://racingteam.uma.es/">UMA Racing Team</a> for two years, mainly focusing on the controller design and programming. I adapted the <a href="https://vesc-project.com/">VESC Project</a> to a 13 kW Permanent Magnet Synchronous Motor (PMSM), and designed the PCB for the controller. I also led the electronics section of the team, overseeing the development of the power inverter, the data acquisition module and the battery.</p>
 
   <p>Eventually, the UMA Racing Team won the prize for the best electric motorcycle in the MS2 category 🏆.</p>
 </details>
@@ -75,7 +73,7 @@ _Waveform design for wireless power transmission systems_
 
   <p>Code developed for the CEABOT 2021 second challenge. The goal was to implement a leader-follower robotic system (with underwater vehicles). The follower robot uses a camera pointing to the leader, which has ArUco markers on it. Using the OpenCV library, the position of the ArUco is obtained, and the follower movement is controlled with a simple PID. We also optimized the image processing by using a parallel pipeline in order to reduce control latency, and designed a basic GUI for monitoring both vehicles. Our team achieved the first place in this challenge.</p>
 
-  <p>Source code available on [GitHub](https://github.com/javmarina/CEABOT).</p>
+  <p>Source code available on <a href="https://github.com/javmarina/CEABOT">GitHub</a>.</p>
 </details>
 
 ## TurtleBot-Android
@@ -87,5 +85,5 @@ _Waveform design for wireless power transmission systems_
 
   <p>Basic Android app to teleoperate a TurtleBot and stream images from its multiple cameras. Showcases basic usage of ROS nodes in `rosjava`.</p>
 
-  <p>Source code available on [GitHub](https://github.com/javmarina/TurtleBot-Android).</p>
+  <p>Source code available on <a href="https://github.com/javmarina/TurtleBot-Android">GitHub</a>.</p>
 </details>
