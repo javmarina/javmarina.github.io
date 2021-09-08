@@ -83,7 +83,7 @@ _Waveform design for wireless power transmission systems_
 <details>
   <summary>Click to expand!</summary>
 
-  <p>Basic Android app to teleoperate a TurtleBot and stream images from its multiple cameras. Showcases basic usage of ROS nodes in `rosjava`.</p>
+  <p>Basic Android app to teleoperate a TurtleBot and stream images from its multiple cameras. Showcases basic usage of ROS nodes in <code>rosjava</code>.</p>
 
   <p>Source code available on <a href="https://github.com/javmarina/TurtleBot-Android">GitHub</a>.</p>
 </details>
