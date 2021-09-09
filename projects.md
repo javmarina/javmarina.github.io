@@ -66,7 +66,7 @@ _Waveform design for wireless power transmission systems_
 
 ## CEABOT 2021 - Computer vision challenge
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=3572A5) ![](https://img.shields.io/badge/Simulator-Unity-informational?style=flat-square&logo=unity&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=3572A5) ![](https://img.shields.io/badge/Code-OpenCV-informational?style=flat-square&logo=opencv&logoColor=white&color=5C3EE8) ![](https://img.shields.io/badge/Simulator-Unity-informational?style=flat-square&logo=unity&logoColor=white&color=000000)
 
 <details>
   <summary>Click to expand!</summary>
