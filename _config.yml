@@ -17,6 +17,9 @@ description:      Electronics, Robotics and Mechatronics Engineer. Master's Degr
 url:              https://javmarina.github.io
 baseurl:          /
 
+# Google Analytics
+google_analytics: G-7DD1B22849
+
 author:
   name:           'Javier Marina'
   url:            https://www.linkedin.com/in/javmarina/
