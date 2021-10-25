@@ -35,7 +35,7 @@ _Waveform design for wireless power transmission systems_
 <details>
   <summary>Click to expand!</summary>
 
-  <p>Software that allows remote play for Nintendo Switch. Built from scratch, currently supports sending controller input from one computer to another and playing games remotely. I'm currently finishing a WebRTC implementation that will include real-time audio and video streaming, thus allowing full remote play for the Nintendo Switch. It's the same technology used by streaming services such as Stadia, but open source!</p>
+  <p>Software that allows full remote play for Nintendo Switch. The user can play games from one computer, which is connected via WebRTC to a remote computer, responsible for sending commands to the Switch console. It's the same technology used by streaming services such as Stadia, but open source!</p>
 
   <p>The project is divided into two parts: a GUI for both the client and server computers (programmed in JavaFx) and an Atmel firmware that can be flashed to an Arduino board and emulates a Nintendo Switch Pro Controller. To the best of my knowledge, it's the one and only firmware available for Atmel microcontrollers that reverse engineers the Pro Controller (some efforts have been made for the Horipad S, which has limited features).</p>
 
