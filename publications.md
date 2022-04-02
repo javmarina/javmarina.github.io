@@ -5,7 +5,7 @@ title: Publications
 
 ### An Underwater Simulation Server Oriented to Cooperative Robotic Interventions: The Educational Approach
 
-[Published by IEEE](https://ieeexplore.ieee.org/document/9705666)
+<a href="https://ieeexplore.ieee.org/document/9705666" target="_blank">Published by IEEE</a>
 
 _Alejandro Solis, Raul Marin, **Javier Marina**, Francisco J. Moreno, Mario Ávila, Marcos de la Cruz, Daniel Delgado, Jose V. Marti, Pedro J. Sanz_
 
@@ -17,7 +17,7 @@ Jaume I University of Castellon - CIRTESU (Underwater Robotics and Technology Re
 
 ### Head and eye egocentric gesture recognition for human-robot interaction using eyewear cameras
 
-[Available in arXiv](https://ieeexplore.ieee.org/document/9705666)
+<a href="https://arxiv.org/abs/2201.11500" target="_blank">Available in arXiv</a>
 
 _**Javier Marina-Miranda**, V. Javier Traver_
 
